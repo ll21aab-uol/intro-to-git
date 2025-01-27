@@ -1,1 +1,2 @@
 This repository is used for learning basic GitHub version control in Codespace
+Added a new section while working on a separate branch
